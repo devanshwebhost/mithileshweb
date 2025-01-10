@@ -28,7 +28,7 @@ function App() {
         </button>
         <button onClick={handlePrint}>Print Love</button>
        </div>
-      </div>
+    
     </>
   )
 }
